@@ -72,7 +72,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
             <ul>
  -->
               <li><a href="https://x.com/home"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-              <li><a href="https://www.linkedin.com/feed/?trk=onboarding-landing"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+              <li><a href="www.linkedin.com/in/aniket-kumar-gupta-dev09"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
               <li><a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
             </ul>
           </div>
